@@ -1,0 +1,18 @@
+Java: if we name our class "Main", then our file must also be named "Main.java"
+
+We should also have a semi-colon at the end of each command
+
+Java is also very case sensetive. "Main" is not the same as "main."
+
+- What are classes in Java?
+- Why is that when I run a singular java file, it seems like it is creating an instance of the same file name but with the extension .class in my vs code?
+
+//!
+this is the class header, it should match the file name, it actually automatically creates this class when I first create the file, why tho?
+
+public class practice {
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+
+}
